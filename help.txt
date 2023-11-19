@@ -1,7 +1,4 @@
-JS Let  <------                                                          day_1_19_11_2023
-JS Const    
-JS Operators
-JS Arithmetic
+JS Arithmetic   <------                               day_1.2_19_11_2023
 JS Assignment
 JS Data Types
 JS Functions
@@ -77,3 +74,6 @@ executed
 -------------------
 
 
+Variables
+JS Let 
+JS Const   
